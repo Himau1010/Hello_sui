@@ -5,6 +5,7 @@
       <excludeFolder url="file://$MODULE_DIR$/.tmp" />
       <excludeFolder url="file://$MODULE_DIR$/move/counter/build" />
       <excludeFolder url="file://$MODULE_DIR$/move/hulu/build" />
+      <excludeFolder url="file://$MODULE_DIR$/move/mau/build" />
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
     </content>
